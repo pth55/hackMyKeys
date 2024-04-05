@@ -1,5 +1,5 @@
 # Name: main.py
-# Auther: PAVAN KUMAR B
+# Author: PAVAN KUMAR B
 # DATE: 29-03-2024
 
 from pynput.keyboard import Key, Listener
