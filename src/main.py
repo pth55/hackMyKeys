@@ -14,7 +14,7 @@ import time
 import string
 
 keys_information = "key_log.txt"
-system_information = "syseminfo.txt"
+system_information = "sysinfo.txt"
 
 file_path = "./"
 extend = "/"
